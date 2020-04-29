@@ -1,0 +1,16 @@
+{
+  "name": "sf-doc-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^5.0.0",
+    "xlsx-populate": "^1.21.0",
+    "xml2js": "^0.4.23"
+  }
+}
